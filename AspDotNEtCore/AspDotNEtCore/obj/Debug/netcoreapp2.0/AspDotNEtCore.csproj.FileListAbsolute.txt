@@ -1,0 +1,11 @@
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/bin/Debug/netcoreapp2.0/AspDotNEtCore.deps.json
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/bin/Debug/netcoreapp2.0/AspDotNEtCore.runtimeconfig.json
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/bin/Debug/netcoreapp2.0/AspDotNEtCore.runtimeconfig.dev.json
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/bin/Debug/netcoreapp2.0/AspDotNEtCore.dll
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/bin/Debug/netcoreapp2.0/AspDotNEtCore.pdb
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.csprojResolveAssemblyReference.cache
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.csproj.CoreCompileInputs.cache
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.AssemblyInfoInputs.cache
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.AssemblyInfo.cs
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.dll
+/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/obj/Debug/netcoreapp2.0/AspDotNEtCore.pdb
