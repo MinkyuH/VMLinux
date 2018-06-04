@@ -14,6 +14,7 @@ namespace AspDotNEtCore.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
+            
             return new string[] { "Rara", "Steven" };
         }
 
