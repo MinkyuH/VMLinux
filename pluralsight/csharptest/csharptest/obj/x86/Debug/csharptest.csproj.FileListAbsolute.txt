@@ -1,0 +1,6 @@
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/bin/Debug/csharptest.exe
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/bin/Debug/csharptest.pdb
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/obj/x86/Debug/csharptest.csprojResolveAssemblyReference.cache
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/obj/x86/Debug/csharptest.csproj.CoreCompileInputs.cache
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/obj/x86/Debug/csharptest.exe
+/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/obj/x86/Debug/csharptest.pdb

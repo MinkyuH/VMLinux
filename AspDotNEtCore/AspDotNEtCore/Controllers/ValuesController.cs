@@ -4,12 +4,21 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AspDotNEtCore.models;
+using AspDotNEtCore.Repositories;
 
 namespace AspDotNEtCore.Controllers
 {
+
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+
+        private AddressRepository addressRepository;
+
+        public ValuesController(AddressRepository address) {
+            this.addressRepository = address;
+        }
+
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
@@ -51,5 +60,21 @@ namespace AspDotNEtCore.Controllers
         public void Delete(int id)
         {
         }
+
+        [HttpGet]
+        [Route("addresses/{id}")]
+        public IActionResult GetAddress([FromRoute]int id) {
+            return new JsonResult(addressRepository.GetAddress(id));
+        }
+
+
+
+
+        public class AddressModel
+        {
+            public string ID { get; set; }
+            public string AddressLine1 { get; set; }
+        }
     }
+
 }

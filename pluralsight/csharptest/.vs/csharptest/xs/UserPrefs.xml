@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D086CE46-6AFA-4FCD-BD35-F2E4DDE6F15E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharptest/Program.cs">
+    <Files>
+      <File FileName="csharptest/Program.cs" Line="76" Column="14" />
+      <File FileName="csharptest/OrderItem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/minkyuham/Desktop/dev/pluralsight/csharptest/csharptest/Program.cs" relfile="csharptest/Program.cs" line="196" column="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.csharptest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

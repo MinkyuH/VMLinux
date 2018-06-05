@@ -9,6 +9,8 @@
     <Folder Include="Properties\Models\" />
     <Folder Include="models\" />
     <Folder Include="App_Code\" />
+    <Folder Include="Services\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>

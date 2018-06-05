@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4EA3899A-ABBA-4117-A325-32B428158FB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspDotNEtCore/Repositories/AddressRepository.cs">
+    <Files>
+      <File FileName="AspDotNEtCore/Controllers/ValuesController.cs" Line="26" Column="28" />
+      <File FileName="AspDotNEtCore/models/Person.cs" Line="8" Column="28" />
+      <File FileName="AspDotNEtCore/Program.cs" Line="21" Column="1" />
+      <File FileName="AspDotNEtCore/App_Code/PersonPersistence.cs" Line="11" Column="1" />
+      <File FileName="AspDotNEtCore/Startup.cs" Line="30" Column="228" />
+      <File FileName="AspDotNEtCore/Controllers/AuthenticationController.cs" Line="52" Column="2" />
+      <File FileName="AspDotNEtCore/Services/AuthenticationService.cs" Line="13" Column="1" />
+      <File FileName="AspDotNEtCore/Repositories/UserRepository.cs" Line="22" Column="21" />
+      <File FileName="AspDotNEtCore/models/TestDbContext.cs" Line="8" Column="48" />
+      <File FileName="AspDotNEtCore/models/Address.cs" Line="12" Column="22" />
+      <File FileName="AspDotNEtCore/Repositories/AddressRepository.cs" Line="6" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AspDotNEtCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/Controllers/ValuesController.cs" relfile="AspDotNEtCore/Controllers/ValuesController.cs" line="40" column="39" />
+      <Breakpoint file="/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/Program.cs" relfile="AspDotNEtCore/Program.cs" line="21" column="1" />
+      <Breakpoint file="/Users/minkyuham/Desktop/dev/AspDotNEtCore/AspDotNEtCore/Controllers/AuthenticationController.cs" relfile="AspDotNEtCore/Controllers/AuthenticationController.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
